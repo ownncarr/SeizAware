@@ -28,7 +28,7 @@ The project demonstrates a full technical workflow: from **data preprocessing â†
   - Special focus on **Sensitivity** to minimize missed seizures.  
   - False alarms/hour analysis.  
 
-- **Interactive Prototype (Streamlit App)**  
+- **Interactive Prototype (Gradio App)**  
   - Upload EEG data â†’ model predicts seizure likelihood.  
   - Visualize EEG segments with high-risk regions highlighted.  
   - Displays seizure probability score.  
