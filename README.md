@@ -3,7 +3,7 @@
 
 SeizAware is a machine learning + deep learning project aimed at detecting epileptic seizures from EEG (electroencephalogram) signals. It provides a **clinician-facing decision-support system** that prioritizes **high sensitivity (recall)** to ensure seizures are not missed.  
 
-The project demonstrates a full technical workflow: from **data preprocessing → model building → evaluation → deployment as an interactive Streamlit app**.
+The project demonstrates a full technical workflow: from **data preprocessing → model building → evaluation → deployment as an interactive gradio app**.
 
 ---
 
